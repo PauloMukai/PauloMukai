@@ -27,7 +27,7 @@
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=scikitlearn)&nbsp;
 
-<br><br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
