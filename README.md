@@ -10,7 +10,7 @@
 
 - 🎲 Data Science
   
-- 🎮 Gamer
+  
 
 
 
