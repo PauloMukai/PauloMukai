@@ -4,7 +4,7 @@
 
 
 
-- 🤖 Future Machine Learning Engineer by FIAP
+- 🤖 Machine Learning Engineer
   
 - 💻 Back-end Developer
 
